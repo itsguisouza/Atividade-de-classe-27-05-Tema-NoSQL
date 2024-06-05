@@ -1,0 +1,100 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "João Grilo",
+      "endereco": {
+        "id": 1,
+        "rua": "Rua Suassuna",
+        "numero": "30",
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "complemento": null
+      },
+      "emails": [
+        "grilo@mail.com",
+        "joaog@mk.com"
+      ],
+      "cargo": {
+        "id": 1,
+        "cargo": "Contador"
+      },
+      "jornada": 40,
+      "salario": {
+        "id": 1,
+        "valor": "R$ 3000,00"
+      }
+    },
+    {
+      "id": 2,
+      "nome": "Ada Byron",
+      "endereco": {
+        "id": 2,
+        "rua": "Rua Lovelace",
+        "numero": "67",
+        "cidade": "London",
+        "estado": "LD",
+        "complemento": null
+      },
+      "emails": [
+        "ada@mail.com",
+        "abryon@tech.com"
+      ],
+      "cargo": {
+        "id": 2,
+        "cargo": "Developer"
+      },
+      "jornada": 20,
+      "salario": {
+        "id": 2,
+        "valor": "R$ 15000,00"
+      }
+    },
+    {
+      "id": 3,
+      "nome": "Gerundino",
+      "endereco": {
+        "id": 3,
+        "rua": "Rua Substantivo",
+        "numero": "78",
+        "cidade": "Bairro Predicado, Mesóclise",
+        "estado": "AC",
+        "complemento": null
+      },
+      "emails": [
+        "gerundino@gmail.com"
+      ],
+      "cargo": {
+        "id": 3,
+        "cargo": "Linguista"
+      },
+      "jornada": 44,
+      "salario": {
+        "id": 3,
+        "valor": "R$ 8000,00"
+      }
+    },
+    {
+      "id": 4,
+      "nome": "Chicó",
+      "endereco": {
+        "id": 4,
+        "rua": "Rua Eurico",
+        "numero": "50",
+        "cidade": "João Pessoa",
+        "estado": "PB",
+        "complemento": "Apt 28 Bloco C"
+      },
+      "emails": [],
+      "cargo": {
+        "id": 2,
+        "cargo": "Developer"
+      },
+      "jornada": 20,
+      "salario": {
+        "id": 2,
+        "valor": "R$ 15000,00"
+      }
+    }
+  ]
+}
